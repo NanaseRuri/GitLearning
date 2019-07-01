@@ -7,5 +7,11 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 Hello.
+<<<<<<< HEAD
 Little Change.
 little change.
+=======
+v1.1
+v1.2
+I return.
+>>>>>>> dev
